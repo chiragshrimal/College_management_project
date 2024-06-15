@@ -1,4 +1,4 @@
-# Collage_management_project
+# College_management_project
 The Collage Management Project is a comprehensive solution designed to streamline and manage various administrative and operational aspects of a college. The project encompasses a wide range of features aimed at enhancing efficiency, improving communication, and ensuring smooth day-to-day operations. Below is an overview of the key components included in this project:
 
 Attendance System: A robust system for tracking and managing student attendance, allowing faculty to take attendance and students to view their records.
